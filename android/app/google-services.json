@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "212818390361",
+    "firebase_url": "https://beezy-7154e.firebaseio.com",
+    "project_id": "beezy-7154e",
+    "storage_bucket": "beezy-7154e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212818390361:android:b4140e8afbbda61e",
+        "android_client_info": {
+          "package_name": "com.example.beezyhomepg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212818390361-pr15s5is53rnfprfe4hj9fb65f7tsi3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCelYNDUAb_Gg857CHi3dbLI_c0IfTwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212818390361:android:df1150462cd90dd3",
+        "android_client_info": {
+          "package_name": "com.jasonle.beezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212818390361-pr15s5is53rnfprfe4hj9fb65f7tsi3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCelYNDUAb_Gg857CHi3dbLI_c0IfTwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
