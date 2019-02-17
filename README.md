@@ -1,4 +1,4 @@
-# beezy_homepg
+# Beezy
 
 Beezy app homepage
 
